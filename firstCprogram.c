@@ -31,7 +31,7 @@ printf("\n the elements after removing duplicates :");
 		if(duplicate[i]==0)
 		printf("%d\t",arr[i]);
 	}
-2
+
 
  return 0;
 }
